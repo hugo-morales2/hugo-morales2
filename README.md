@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 I'm a Computer Science student at **UC Davis**, passionate about building full-stack applications, designing scalable systems, and exploring the future of AI.
 
-- 💻 **Projects**:  
-  - Building a **Bento-based data commons** at the [UC Davis Genome Center](https://genomecenter.ucdavis.edu/) to manage genomic sample records  
+- 💻 **Projects**:    
   - **Spotify analytics dashboard** with Next.js, Node.js, and PostgreSQL  
   - **Content-based song recommender** with Next.js, PostgreSQL, and Flask(+ data handling w/ pandas, numpy)
 
-- 🚀 **Past Experience**:  
+- 🚀 **Past Experience**:
+  - *Software Developer @ : UC Davis Genome Center* -  Building a **Bento-based data commons** to manage genomic sample records
   - **Contract Software Engineer @ : Solidigm** — built an OKR analytics dashboard that cut manual reporting time by 85% and reduced query latency by 65%  
   - **Software Education Lead @ : CodeLab** — lead technical workshops, mentor student developers, and oversee skill development for real-world client projects  
   - **Developer @ : #include** — engineered a reusable e-store platform powering multiple nonprofit organizations
